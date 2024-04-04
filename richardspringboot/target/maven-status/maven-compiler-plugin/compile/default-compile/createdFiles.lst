@@ -1,0 +1,11 @@
+com\richardspringboot\richardspringboot\models\dto\ParamMixDto.class
+com\richardspringboot\richardspringboot\controllers\HomeController.class
+com\richardspringboot\richardspringboot\models\dto\ParamDto.class
+com\richardspringboot\richardspringboot\controllers\UserRestController.class
+com\richardspringboot\richardspringboot\models\User.class
+com\richardspringboot\richardspringboot\models\dto\UserDto.class
+com\richardspringboot\richardspringboot\ValuesConfig.class
+com\richardspringboot\richardspringboot\controllers\PathVariableController.class
+com\richardspringboot\richardspringboot\controllers\UserController.class
+com\richardspringboot\richardspringboot\controllers\RequestParamsController.class
+com\richardspringboot\richardspringboot\RichardspringbootApplication.class
